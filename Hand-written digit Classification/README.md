@@ -16,4 +16,5 @@ Dataset can be loaded from the Keras library itself.
 
 ## Neural Network
 - Basic CNN 
+
 Accuracy : 98.58
